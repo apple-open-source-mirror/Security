@@ -1,4 +1,0 @@
-unsigned char detached_content[] = {
-  0x68, 0x6f, 0x69, 0x20, 0x6a, 0x6f, 0x68
-};
-unsigned int detached_content_len = 7;
